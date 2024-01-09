@@ -5,6 +5,11 @@ QR Code Generator
 
 This project is a simple QR code generator built using React and the `react-qr-code` library. It allows users to input data, such as a URL, text, or any other information, and generates a corresponding QR code for easy scanning.
 
+---
+## Live Demo Link : https://qr-code-generator-pankaj-2503.netlify.app/
+
+---
+
 ## Features
 
 -   **Input Form:** Users can enter the data they want to encode into the QR code using a user-friendly input form.
